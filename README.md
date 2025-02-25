@@ -8,7 +8,7 @@
 ---
 
 ## 🔗 Connect with Me  
-[![LinkedIn](https://www.linkedin.com/in/mariam-hagag-778100278/)  
+[![LinkedIn](https://www.linkedin.com/in/mariam-hagag-778100278/)
 [![GitHub](https://github.com/MariamHagag7/MariamHagag7)  
 [![Portfolio]()  
 [![Kaggle](https://www.kaggle.com/mariamhagagg)  
